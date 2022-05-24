@@ -1,0 +1,25 @@
+
+.logo img{
+    width: 70px;
+}
+main{
+    padding-top: 20px;
+}
+.textBorder {
+    border: 2px solid #005dba;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 20px;
+}
+.Footer-bottom{
+    width: 100%;
+
+}
+.soon img{
+    width: 75%;
+    border-radius: 5%;
+}
+.background img{
+    background-size: cover;
+    background-attachment: fixed;
+}
